@@ -9,8 +9,9 @@ A dynamic quiz game that fetches real-time questions from an external API.
 - Responsive UI
 
 ## 🛠️ Tech Stack
-- React
+- HTML
 - CSS
+- Javascript
 - REST API
 
 ## 📸 Preview
