@@ -14,7 +14,7 @@ A dynamic quiz game that fetches real-time questions from an external API.
 - REST API
 
 ## 📸 Preview
-![preview](./preview.png)
+![preview](/assets/preview.png)
 
 ## 👨‍💻 Author
 Dominick Gili
